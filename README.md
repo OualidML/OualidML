@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning project enhanced by deep learning tools**
+- 🔭 I’m currently working on **Machine learning project enhanced by deep learning tools.**
 
-- 🌱 I’m currently learning **Artificial Intelligence in an extensive Masterclass organized by BrainerX x**
+- 🌱 I’m currently learning **Artificial Intelligence in an extensive Masterclass organized by BrainerX .**
 
-- I'm a coach of **Python language at Cirtec club in my school**
+- I'm a coach of **Python language at Cirtec club in my school.**
 
-- I'm looking for a part time job in : **AI prompts and some advanced models**
+- I'm looking for a part time job in : **AI prompts and advanced AI models**
 
 - 📫 How to reach me **ad9192360@gmail.com**
 
