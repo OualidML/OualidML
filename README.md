@@ -1,41 +1,100 @@
-<h1 align="center">Hi 👋, I'm Bahri Ahmed Oualid</h1>
-<h3 align="center">A motivated student at the first preparatory year ,National Polytechnic school of Constantine. </h3>
+<div align="center">
+  <h1>⚡ Ahmed Oualid Bahri</h1>
+  <h3>Full-Stack AI Engineer | Deep Learning & Offline-First Systems | Lead Python Coach</h3>
+  <p>Most AI models never leave the Jupyter notebook. I engineer production-grade machine learning pipelines and deploy them into high-performance, sub-15ms web applications. Bridging mathematically rigorous AI with robust software architecture.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oualidml&label=Profile%20views&color=0e75b6&style=flat" alt="oualidml" /> </p>
+  <p align="center">
+    <a href="https://ahmed-bahri.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/bahri-ahmed-oualid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://kaggle.com/bahriahmedoualid" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="https://www.topcoder.com/members/27027" target="_blank"><img src="https://img.shields.io/badge/TopCoder-2FA018?style=for-the-badge&logo=Topcoder&logoColor=white" alt="TopCoder" /></a>
+    <a href="mailto:bahriahmedwalid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oualidml" alt="oualidml" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🚀 Current Trajectory & Focus
 
-- 🔭 I’m currently working on **Machine learning project enhanced by deep learning tools.**
+- 🔭 **Engineering:** Currently building machine learning projects enhanced by deep learning tools and deploying them as offline-first PWAs.
+- 🧠 **Latest Launch:** A Multimodal Skin Disease Classification engine fusing EfficientNetB0 visual embeddings with patient metadata, calibrated to a strict 15% malignant safety boundary.
+- 🌱 **Learning:** Expanding my Artificial Intelligence expertise through an extensive masterclass organized by BrainerX.
+- 👨‍🏫 **Leadership:** Lead Python Language Coach at the Cirtec Club (ENP Constantine), mentoring peers in algorithmic architecture and end-to-end ML.
+- 💼 **Actively Seeking:** Part-time opportunities in AI Engineering, prompt engineering, and the deployment of advanced AI models.
+- ⚡ **Fun Fact:** I’m known for turning any conversation into a smooth, productive exchange. I stay calm under pressure, communicate clearly, and enjoy solving tough engineering bottlenecks without letting stress get in the way.
 
-- 🌱 I’m currently learning **Artificial Intelligence in an extensive Masterclass organized by BrainerX .**
+---
 
-- I'm a coach of **Python language at Cirtec club in my school.**
+### ⚙️ Signature Architectures
 
-- I'm looking for a part time job in : **AI prompts and advanced AI models**
+| Project | Architecture & Impact |
+|---------|-----------------------|
+| **[Skin Disease Classification](https://ahmed-bahri.vercel.app)** | Engineered a clinical safety triage pipeline using PyTorch. Implemented post-hoc Temperature Scaling (T=1.5909) to guarantee a 96% critical case capture rate with zero false-negative tolerance. |
+| **ORDO-DZ** | Built a sub-15ms offline-first Next.js PWA for Algerian clinicians. Indexes 16,700+ medications and 5,300+ pharmacies using Dexie.js and B-Tree indexing. |
+| **SuperManager Pro** | Designed a 100% offline B2B Point-of-Sale (POS) and inventory SaaS to eliminate cloud dependency for high-volume local retail environments. |
+| **Vehicle Price ML** | Deployed an end-to-end regression pipeline on 1,000,000+ records across 25 features using LightGBM and SHAP explainability. |
 
-- 📫 How to reach me **ad9192360@gmail.com**
+---
 
-- 📄 Know about my experiences [CV_Bahri_Ahmed_Oualid (2) (1)](CV_Bahri_Ahmed_Oualid (2) (1))
+### 🛠️ Technical Arsenal
 
-- ⚡ Fun fact **I’m known for turning any conversation into a smooth, productive exchange—I stay calm under pressure, communicate clearly, and enjoy solving tough problems without letting stress get in the way.**
+**AI, Machine Learning & Data Science:**
+<br/>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> 
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a> 
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2v2.14.0/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+<a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bahri ahmed oualid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahri ahmed oualid" height="30" width="40" /></a>
-<a href="https://kaggle.com/bahri ahmed oualid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bahri ahmed oualid" height="30" width="40" /></a>
-<a href="https://fb.com/bahri ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bahri ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/b.ahmed10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b.ahmed10" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/27027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="27027" height="30" width="40" /></a>
+**Web Architecture & Frontend:**
+<br/>
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a> 
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+
+**Backend, Data & Infrastructure:**
+<br/>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/></a>
+<a href="https://dexie.org/" target="_blank"><img src="https://raw.githubusercontent.com/dexie/Dexie.js/master/docs/dexie-logo.svg" alt="Dexie.js" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+<a href="https://github.com/puppeteer/puppeteer" target="_blank"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
+<a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/></a>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oualidml&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="oualidml stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oualidml&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="oualidml top languages" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oualidml&theme=tokyonight&hide_border=true&background=0f172a" alt="oualidml streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oualidml&show_icons=true&locale=en&layout=compact" alt="oualidml" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oualidml&show_icons=true&locale=en" alt="oualidml" /></p>
+### 💡 Engineering Philosophy
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oualidml&" alt="oualidml" /></p>
+> *"AI is the new electricity. Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform."*  
+> **— Dr. Andrew Ng** (Founder of DeepLearning.AI)
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> **— Martin Fowler** (Pioneer of Software Architecture)
+
+> *"Talk is cheap. Show me the code."*  
+> **— Linus Torvalds** (Creator of Linux & Git)
+
+<br/>
+
+<p align="center">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://fb.com/bahri ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/b.ahmed10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
 
