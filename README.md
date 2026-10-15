@@ -4,10 +4,9 @@
   <p>Most AI models never leave the Jupyter notebook. I engineer production-grade machine learning pipelines and deploy them into high-performance, sub-15ms web applications. Bridging mathematically rigorous AI with robust software architecture.</p>
 
   <p align="center">
-    <a href="https://ahmed-bahri.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/bahri-ahmed-oualid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://kaggle.com/bahriahmedoualid" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-    <a href="https://www.topcoder.com/members/27027" target="_blank"><img src="https://img.shields.io/badge/TopCoder-2FA018?style=for-the-badge&logo=Topcoder&logoColor=white" alt="TopCoder" /></a>
+    <a href="https://ahmed-bahri-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/ahmed-oualid-bahri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/OualidML" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="mailto:bahriahmedwalid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
@@ -29,7 +28,7 @@
 
 | Project | Architecture & Impact |
 |---------|-----------------------|
-| **[Skin Disease Classification](https://ahmed-bahri.vercel.app)** | Engineered a clinical safety triage pipeline using PyTorch. Implemented post-hoc Temperature Scaling (T=1.5909) to guarantee a 96% critical case capture rate with zero false-negative tolerance. |
+| **[Skin Disease Classification](https://ahmed-bahri-portfolio.vercel.app/)** | Engineered a clinical safety triage pipeline using PyTorch. Implemented post-hoc Temperature Scaling (T=1.5909) to guarantee a 96% critical case capture rate with zero false-negative tolerance. |
 | **ORDO-DZ** | Built a sub-15ms offline-first Next.js PWA for Algerian clinicians. Indexes 16,700+ medications and 5,300+ pharmacies using Dexie.js and B-Tree indexing. |
 | **SuperManager Pro** | Designed a 100% offline B2B Point-of-Sale (POS) and inventory SaaS to eliminate cloud dependency for high-volume local retail environments. |
 | **Vehicle Price ML** | Deployed an end-to-end regression pipeline on 1,000,000+ records across 25 features using LightGBM and SHAP explainability. |
@@ -69,12 +68,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oualidml&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="oualidml stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oualidml&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="oualidml top languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OualidML&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="OualidML stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OualidML&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="OualidML top languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oualidml&theme=tokyonight&hide_border=true&background=0f172a" alt="oualidml streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OualidML&theme=tokyonight&hide_border=true&background=0f172a" alt="OualidML streak" />
 </p>
 
 ---
